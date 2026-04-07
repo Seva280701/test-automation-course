@@ -1,6 +1,6 @@
 package com.bootcampexcercise.modul2.activity;
 
-public class OperatorActivity {
+public class activity2_OperatorActivity {
 
     public static void main(String[] args) {
 

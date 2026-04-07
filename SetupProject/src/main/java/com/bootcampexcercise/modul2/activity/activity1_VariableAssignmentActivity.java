@@ -1,6 +1,6 @@
 package com.bootcampexcercise.modul2.activity;
 
-public class VariableAssignmentActivity {
+public class activity1_VariableAssignmentActivity {
     public static void main(String[] args) {
 
         int number = 0;
