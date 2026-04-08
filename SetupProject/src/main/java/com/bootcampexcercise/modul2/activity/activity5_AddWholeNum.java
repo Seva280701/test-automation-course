@@ -4,7 +4,7 @@ public class activity5_AddWholeNum {
 
     public static void main(String[] args) {
 
-        // we want to find sum of numbers from 50 to 100
+        
         int sum = 0; // initialize sum variable
 
         for (int i = 50; i <= 100; i++) { // loop from 50 to 100
