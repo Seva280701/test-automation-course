@@ -1,5 +1,12 @@
 package com.bootcampexcercise.modul2.activity;
 
+/**
+ *
+ * This class calculates the sum of numbers from 50 to 100
+ * using a for loop and prints the result.
+ *
+ */
+
 public class AddWholeNum {
 
     public static void main(String[] args) {

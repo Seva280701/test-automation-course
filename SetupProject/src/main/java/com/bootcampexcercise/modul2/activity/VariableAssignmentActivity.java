@@ -1,5 +1,12 @@
 package com.bootcampexcercise.modul2.activity;
 
+/**
+ *
+ * This class demonstrates how to declare a variable,
+ * assign a default value, update it, and print the result.
+ *
+ */
+
 public class VariableAssignmentActivity {
 
     public static void main(String[] args) {

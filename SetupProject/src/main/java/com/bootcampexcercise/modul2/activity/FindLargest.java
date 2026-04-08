@@ -1,5 +1,12 @@
 package com.bootcampexcercise.modul2.activity;
 
+/**
+ *
+ * This class compares three integer values
+ * and finds the largest among them using if-else statements.
+ *
+ */
+
 public class FindLargest {
 
     public static void main(String[] args) {

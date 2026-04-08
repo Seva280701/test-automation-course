@@ -1,5 +1,14 @@
 package com.bootcampexcercise.modul2.activity;
 
+
+/**
+ *
+ * This class converts numbers into words using a switch-case statement.
+ * It supports values from 1 to 10 and prints a default message
+ * for values outside this range.
+ *
+ */
+
 public class NumToWords {
 
     public static void main(String[] args) {

@@ -1,5 +1,12 @@
 package com.bootcampexcercise.modul2.activity;
 
+/**
+ *
+ * This class creates an array of 20 integers
+ * and finds the largest number using a loop.
+ *
+ */
+
 public class FindInArray {
 
     public static void main(String[] args) {

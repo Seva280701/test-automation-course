@@ -1,5 +1,12 @@
 package com.bootcampexcercise.modul2.activity;
 
+/**
+ *
+ * This class prints all odd numbers less than 100
+ * using a while loop.
+ *
+ */
+
 public class PrintNumWithWhile {
 
     public static void main(String[] args) {

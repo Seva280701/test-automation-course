@@ -1,5 +1,12 @@
 package com.bootcampexcercise.modul2.activity;
 
+/**
+ *
+ * This class prints multiplication tables from 11 to 20.
+ * It uses nested for loops to generate the results.
+ *
+ */
+
 public class MultiplicationTable {
 
     public static void main(String[] args) {
