@@ -1,16 +1,20 @@
 package com.bootcampexcercise.modul2.activity;
 
-public class activity5_AddWholeNum {
+public class AddWholeNum {
 
     public static void main(String[] args) {
 
-        
-        int sum = 0; // initialize sum variable
+        // initialize sum
+        int sum = 0;
 
-        for (int i = 50; i <= 100; i++) { // loop from 50 to 100
+        // loop from 50 to 100
+        for (int i = 50; i <= 100; i++) {
+
+            // add each number to sum
             sum = sum + i;
         }
 
+        // print result
         System.out.println("Sum of numbers from 50 to 100 is " + sum);
     }
 }

@@ -1,17 +1,21 @@
 package com.bootcampexcercise.modul2.activity;
 
-public class activity4_NumToWords {
+public class NumToWords {
 
     public static void main(String[] args) {
 
+        // call method with different values
         switchCaseEx(5);
         switchCaseEx(100);
         switchCaseEx(1);
     }
 
+    // method to convert number to word
     public static void switchCaseEx(int num) {
 
         switch (num) {
+
+            // match numbers from 1 to 10
             case 1:
                 System.out.println("ONE");
                 break;
@@ -42,6 +46,8 @@ public class activity4_NumToWords {
             case 10:
                 System.out.println("TEN");
                 break;
+
+            // default case if number is out of range
             default:
                 System.out.println("Given value is not in the range 1-10");
         }
