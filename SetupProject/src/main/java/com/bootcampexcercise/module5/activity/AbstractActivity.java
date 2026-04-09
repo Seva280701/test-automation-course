@@ -2,6 +2,19 @@ package com.bootcampexcercise.module5.activity;
 
 /**
  * Main class
+ *
+ *
+ *
+ * output
+ *
+ * Rectangle color: Red
+ * Rectangle area: 15.0
+ * Rectangle perimeter: 16.0
+ * -------------------------
+ * Circle color: Blue
+ * Circle area: 50.26548245743669
+ * Circle perimeter: 25.132741228718345
+ *
  */
 
 public class AbstractActivity {

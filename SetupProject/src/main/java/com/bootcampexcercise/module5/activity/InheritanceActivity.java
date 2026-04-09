@@ -2,6 +2,19 @@ package com.bootcampexcercise.module5.activity;
 
 /**
  * Calling class
+ *
+ *
+ * output
+ *
+ * Name: Sarah Johnson
+ * Age: 21
+ * -----------------------------
+ * Name: Shawn Cun
+ * Age: 32
+ * Title: Developer
+ * Salary: 70000.0
+ * -----------------------------
+ *
  */
 public class InheritanceActivity {
 
