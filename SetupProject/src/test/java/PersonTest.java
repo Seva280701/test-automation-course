@@ -5,7 +5,9 @@ import junit.framework.TestCase;
  * Class: PersonTest
  *
  * Unit tests for Person class
+ *
  */
+
 public class PersonTest extends TestCase {
 
     private Person person;
