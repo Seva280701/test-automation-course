@@ -5,16 +5,14 @@ package com.bootcampexcercise.module5.activity;
  */
 public class Rectangle extends Shape {
 
-    double length = 5;
-    double width = 3;
+    public double length;
+    public double breadth;
 
-    @Override
     public double calculateArea() {
-        return length * width;
+        return length * breadth;
     }
 
-    @Override
     public double calculatePerimeter() {
-        return 2 * (length + width);
+        return 2 * (length + breadth);
     }
 }
